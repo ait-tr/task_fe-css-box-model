@@ -1,0 +1,9 @@
+p {
+    background-color: rgb(242, 242, 182);
+    border: 2px solid rgb(224, 108, 108);
+    padding: 2px;
+}
+
+span {
+    border:2px solid rgba(31, 64, 182, 0.744);
+}

@@ -17,3 +17,8 @@ h1, p {
 img {
     border-radius: 10px;
 }
+
+body {
+    background-color: #4f4e4e;
+    color: #1e1c1c;
+}

@@ -16,7 +16,9 @@ p {
 }
 
 img {
+  width: 75%;
   border-radius: 10px;
+  display: block;
 }
 
 body {

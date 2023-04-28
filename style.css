@@ -1,0 +1,12 @@
+html {
+    width: 515px;
+}
+
+p {
+    background-color: rgb(243, 243, 192);
+    border: 2px solid red;
+}
+
+span {
+    border: 2px solid blue;
+}

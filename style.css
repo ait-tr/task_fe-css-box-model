@@ -1,0 +1,15 @@
+h1 {
+    font-size: 40px;
+    margin: 0;
+}
+p {
+    background-color: hsl(60deg 55.56% 91.18%);
+    border: 2px solid red;
+    width: 650px;
+    margin-right: 50px;
+    font-size: 21px;
+      
+}
+span{
+    border: 2px solid blue;
+}

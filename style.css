@@ -1,0 +1,10 @@
+.box-border{
+    background-color: papayawhip;
+    border: 3px solid red;
+    width: 470px;
+
+}
+
+.blue-border{
+    border: 3px solid blue;
+}

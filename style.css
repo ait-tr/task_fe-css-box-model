@@ -1,0 +1,18 @@
+p {
+
+    background-color: rgb(250, 232, 210);
+    border: solid red 3px;
+    padding: 10px;
+    margin: 10px 20px 10px 20px;
+
+}
+
+h1{
+    margin-left: 20px;
+}
+
+span{
+    border: solid blue 2px;
+
+
+}

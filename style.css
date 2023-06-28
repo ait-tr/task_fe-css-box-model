@@ -1,0 +1,10 @@
+h1{
+    font-size: 35px;
+}
+p{
+    background-color: rgb(249, 232, 212);
+    border: solid red 3px ;
+}
+span{
+    border: solid rgb(41, 59, 190) 2px ;
+}

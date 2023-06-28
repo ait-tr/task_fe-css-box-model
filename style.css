@@ -1,0 +1,13 @@
+p {
+    background-color:lightyellow ;
+    width: 500px;
+    height: 70px;
+    margin: 20px;
+    padding: 1px;
+    border: solid rgb(240, 34, 34) 3px;
+}
+
+span {
+    background-color:lightyellow ;
+    border: solid blue 3px;
+}

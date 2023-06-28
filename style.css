@@ -1,0 +1,33 @@
+h1 {
+  color: rgb(16, 15, 15);
+  border-bottom: 2px;
+  margin: 20px 5px;
+}
+
+p {
+  background-color: lemonchiffon;
+  width: 496px;
+  height: 40px;
+  margin: 20px 5px;
+  padding: 1px;
+  border: solid rgb(227, 16, 16) 3px;
+}
+#p2 {
+  background-color: lemonchiffon;
+  width: 496px;
+  height: 55px;
+  margin: 20px 5px;
+  padding: 1px;
+  border: solid rgb(227, 16, 16) 3px;
+}
+#p4 {
+  background-color: lemonchiffon;
+  width: 496px;
+  height: 110px;
+  margin: 20px 5px;
+  padding: 1px;
+  border: solid rgb(227, 16, 16) 3px;
+}
+span {
+  border: solid blue;
+}

@@ -1,0 +1,7 @@
+p {
+    background-color: rgba(248, 248, 217, 0.915);
+    border: solid red 2px;
+}
+span{
+    border: solid blue 2px;
+}

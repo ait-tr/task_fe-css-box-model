@@ -1,0 +1,27 @@
+h1 {
+   font-size: 70px; 
+   margin: 20px,30px;
+   font-family:'Times New Roman', Times, serif;
+   letter-spacing: -2px;
+}
+p {
+
+    width: 1150px;
+    height:fit-content
+    margin: 20px,40px,40px,20px;
+    padding: 2px;
+    font-size: 42px;
+    letter-spacing: -2px;
+    width: 1150px;
+    font:bold;
+    background-color: rgb(244, 244, 225);
+    border: solid red 5px;
+}span {
+    width:fit-content;
+    height: fit-content;
+    border: solid blue 5px;
+}
+img {
+    width:900px;
+    height: 70px;
+}

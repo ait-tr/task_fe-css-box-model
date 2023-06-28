@@ -1,0 +1,23 @@
+p{
+    border: solid ;
+    border-width: 5px;
+
+    border-color: crimson;
+
+    background-color: rgb(227, 227, 181);
+
+    padding: 10px 10px 30px 10;
+
+    font-size: 40px;
+    border-image-width: 2000px;
+
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+h1{
+    font-size: 400%;
+}
+img{
+    width: 1000px;
+}

@@ -1,0 +1,11 @@
+p {
+  background-color: rgb(252, 243, 231);
+  border: solid red ;
+  width: 520px;
+  font-weight: bold;
+  margin-top: 20px;
+  
+}
+span {
+  border: solid blue;
+}

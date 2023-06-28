@@ -1,0 +1,33 @@
+p {
+    background-color: beige;
+    border: 4px solid #F00;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+p:last-child {
+    position: relative;
+   
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 210mm;
+    height: 297mm;
+    
+}
+
+h1 {
+    font-size: 3.3em;
+    font-weight: bold;
+}
+
+span {
+    border: 3.5px solid blue;
+    padding: 1px;
+
+}

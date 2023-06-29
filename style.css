@@ -1,0 +1,15 @@
+p {
+    background-color: rgb(235, 231, 11);
+    
+    border: red 
+    solid;
+   }
+   
+   span { border: rgb(47, 0, 255) 
+    solid;
+
+   }
+
+   img {
+    display:block;
+   }

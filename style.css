@@ -1,0 +1,19 @@
+
+p {
+    background-color: bisque;
+    border: solid;
+    border-color: red;
+    
+}
+span {
+    border: solid;
+    border-color: blue;
+}
+
+* {
+    width: 495px;
+}
+img {
+    width: 80%;
+}
+

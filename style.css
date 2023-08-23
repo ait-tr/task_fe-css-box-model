@@ -1,0 +1,12 @@
+p{
+    background-color: lightgoldenrodyellow;
+    border: 2px solid;
+    border-color: red;
+}
+body{
+    width: 500px;
+}
+span{
+    border: 2px solid;
+    border-color: blue;
+}

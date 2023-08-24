@@ -1,12 +1,14 @@
 p {
-  background-color: rgb(242, 242, 182);
-  border: 2px solid rgb(224, 108, 108);
-  padding: 2px;
+  background-color: #f2f2b6;
+  border: 2px solid #e06c6c;
+  font-size: large;
+  padding: 10px;
+  margin: 5px;
   border-radius: 10px;
 }
 
 span {
-  border: 2px solid rgba(31, 64, 182, 0.744);
+  border: 2px solid #1f40b6be;
   border-radius: 5px;
 }
 
@@ -16,6 +18,7 @@ p {
 }
 
 img {
+  margin-top: 20px;
   width: 75%;
   border-radius: 10px;
   display: block;

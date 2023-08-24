@@ -1,0 +1,19 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif; /* Семейство шрифтов */
+    font-size: 12pt; /* Размер основного шрифта в пунктах  */
+    background-color: #f0f0f0; /* Цвет фона веб-страницы */
+    color: black; /* Цвет основного текста */ 
+  }
+  h1 {
+    color:orangered; /* Цвет заголовка */
+    font-size: 24pt; /* Размер шрифта в пунктах */
+    font-family: Georgia, Times, serif; /* Семейство шрифтов */
+
+  }
+  p {
+    margin-right: 710px; /* Отступ справа в пикселах */
+    border: solid orangered;
+    background-color:lightgoldenrodyellow;
+    padding-left: 5px; /* Отступ от линии слева до текста  */
+    padding-bottom: 5px; /* Отступ от линии снизу до текста  */
+  }

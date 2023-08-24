@@ -12,8 +12,8 @@ body {
   }
   p {
     margin-right: 710px; /* Отступ справа в пикселах */
-    border: solid orangered;
-    background-color:lightgoldenrodyellow;
+    border: solid orangered; /* вид и цвет границ */
+    background-color:lightgoldenrodyellow; /* Цвет фона параграфа */
     padding-left: 5px; /* Отступ от линии слева до текста  */
     padding-bottom: 5px; /* Отступ от линии снизу до текста  */
   }

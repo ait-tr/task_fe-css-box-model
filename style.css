@@ -1,0 +1,37 @@
+.size {
+    font-size: 40px;
+}
+
+.rectangle {
+    width:700px;
+    height: 100px;
+    border: 4px solid red;
+    margin: 30px;
+    padding: 5px 5px 45px;
+
+}
+.beige {
+    background-color: beige;
+}
+.blue {
+    border: solid blue;
+    background-color: rgb(178, 178, 228);
+}
+.big {
+    font-size: 25px
+}
+.rec {
+    width:700px;
+    height: 100px;
+    border: 4px solid red;
+    margin: 30px;
+    padding: 0px 2px 113px 9px;
+
+}
+.rect {
+    width:700px;
+    height: 100px;
+    border: 4px solid red;
+    margin: 30px;
+    padding:0px 0px 30px 13px;
+}

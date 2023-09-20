@@ -1,0 +1,15 @@
+.headline {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+}
+.main-text {
+    margin: 10px;
+    border: solid;
+    border-color: red;
+   padding: 2px;
+}
+.blueBorder {
+    border: solid;
+    border-color: blue;
+}

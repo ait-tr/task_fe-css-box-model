@@ -1,14 +1,18 @@
 p {
-    border:2px solid ;
-    border-color: red;
-    width: 300;
+    border:2px solid  red;
+    /* border-color: red; */
+    font-size: 30px;
+    width: 1200px;
+    margin: 30px;
+    padding: 10px;
     background-color: beige;
 }
 
 span {
-    border: solid;
-    border-color: blue;
+    border: solid blue 2px;
+    /* border-color: blue; */
 }
 img {
+    margin-top: 20px;
     width: 800;
 }

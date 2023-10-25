@@ -1,0 +1,12 @@
+h1,
+p {
+  margin-left: 10px;
+}
+p {
+  width: 495px;
+  background-color: rgb(240, 238, 215);
+  border: 2px solid red;
+}
+span {
+  border: 2px solid blue;
+}

@@ -1,0 +1,18 @@
+
+h1 {
+    font-size: 2.5em;
+   margin-left: 20px;
+
+   
+}
+p{
+    border: 3px solid red ;
+    background-color: rgb(166, 210, 166);
+    margin-right: 990px  ;
+    margin-left: 20px ;
+   
+    font-size: 20px;
+}
+span{
+    border: 2px solid blue;
+}
